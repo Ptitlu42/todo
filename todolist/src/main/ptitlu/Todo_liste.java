@@ -77,18 +77,8 @@ public class Todo_liste {
 
     }
 
-    
 
-    //// --------GETTER-SETTER--------////
-
-    public static List<String> getList() {
-        return list;
-    }
-
-    public static void setList(List<String> list) {
-        Todo_liste.list = list;
-    }
-
+   
     //// --------REFACTOR--------////
 
     private void showList(int increm) {
